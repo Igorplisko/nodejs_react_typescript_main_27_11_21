@@ -7,6 +7,7 @@ export const AppRoutes = [
   <Redirect
     key="main-home-page"
     from="/"
+    
     to="/example"
   />,
 ];
